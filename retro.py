@@ -38,9 +38,3 @@ if year1 is not None:
     today = datetime.now()
     delta_years = today.year - year1
     print(f"Years since first release: {delta_years}")
-
-title2 = input('Enter the title of the second game: ')
-year2 = search_game(title2)
-if year2 is not None and year1 is not None:
-    delta_years = year2 - year1
-    print(f"Years between first releases: {delta_years}")
