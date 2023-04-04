@@ -14,4 +14,4 @@ and then ask the user if they think that game was old when the game you original
 
 the idea for this isn't mine but i like the challenge of trying to do this.
 
-it uses the mobygames API but i might only be able to do this with a local database of the same information mobygames has since querying the API for a random game by year seems impossible
+it uses the mobygames API but i might only be able to do this with a local database of the same information mobygames has since querying the API for a random game by year seems impossible. i'm in the process of solving that issue but rate limiting is slowing this down.
