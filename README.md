@@ -2,7 +2,7 @@
 
 this is a thing that does stuff.
 
-the stuff i want it to do when i finish it is to:
+the stuff i want it to do when i finish it is:
 
 find a game's year of release and subtract that by the current year
 
