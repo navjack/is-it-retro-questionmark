@@ -12,4 +12,6 @@ then with that you find a random game from that resulting year
 
 and then ask the user if they think that game was old when the game you originally started with came out.
 
-so far it doesn't do that as i'm still sussing things out. sue me.
+the idea for this isn't mine but i like the challenge of trying to do this.
+
+it uses the mobygames API but i might only be able to do this with a local database of the same information mobygames has since querying the API for a random game by year seems impossible
